@@ -5,3 +5,5 @@
 - Ostmacka, 59 kr
 - Latte, 45 kr
 - Tea with Milk , 27 kr
+
+- Hot Chocolate 50 kr
