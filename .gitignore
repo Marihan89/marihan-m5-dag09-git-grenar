@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+#Variables
+.env
+
+#Debuging
+debug.log
+*.log
